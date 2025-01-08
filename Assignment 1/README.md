@@ -9,5 +9,5 @@ I feel inspired and motivated by the talk, gaining clarity on my career path and
 This is the attachment of the poster. [Group 4 Assignment Poster.pdf](https://github.com/user-attachments/files/18341891/Group.4.Assignment.Poster.pdf)
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/files/18341891/Group.4.Assignment.Poster" width="800" height="1200"/>
+  <img src = "https://github.com/user-attachments/assets/23c3adc0-abb5-47ff-85f1-9d1e7a702d1d" width="800" height="1200"/>
 </p>
