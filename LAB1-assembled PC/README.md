@@ -3,39 +3,71 @@ PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/20
 
 <h2> Preparation </h2>
 1.Gather Tools and Components
+
   -Screwdriver (typically Phillips head).
+  
   -Anti-static wrist strap (optional but recommended).
+  
   -All PC components:
+      
       -Case
+      
       -Motherboard
+      
       -Processor (CPU)
+      
       -CPU Cooler
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169" width="350" height="200"/>
+</p>
+      
       -Memory (RAM)
-      -Storage (SSD/HDD)
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169" width="350" height="200"/>
+</p>
+      
+      -Storage (hard disk)
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169" width="350" height="200"/>
+</p>
+      
       -Power Supply Unit (PSU)
-      -Graphics Card (if not using integrated graphics)
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169" width="350" height="200"/>
+</p>
+     
       -Cables and connectors
+      
 2.Work in a Clean and Static-Free Area
+
     -Avoid carpets to prevent static electricity.
+    
     -Lay out components and tools for easy access.
 
 
 <h2> Step-by-Step Assembly </h2>
+
 1. Attach the CPU Cooler
     -Mount the cooler on top of the CPU and secure it according to the cooler instructions.
     -Connect the cooler fan cable to the CPU_FAN header on the motherboard.
+    
 2. Install Storage
     -Mount hard disk into their respective bays.
     -Secure them with screws.
+   
 3. Install RAM
     -Open the RAM slots on the motherboard.
     -Align the notch on the RAM stick with the slot and press down firmly until it clicks into place.
+   
 4. Install the Power Supply (PSU)
     -Mount the PSU into its designated spot in the case.
     -Secure it with screws and route the cables out of the way.
+   
 5. Connect Power Cables
     -Connect all the necessary cables to the motherboard, hard disks, and power supply unit.
+   
 6. Once all the components are in place, close the PC case.
+    
 7.Test the System
     -Connect the PC to a monitor and check it's can start running the PC.
 
