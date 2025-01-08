@@ -22,14 +22,12 @@ PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/20
 </p>
       -Memory (RAM)
 <p align="center">
-<img src = "" width="350" height="200"/>
+<img src = "https://github.com/user-attachments/assets/66fba60c-687c-42e3-8fd4-6f80afdb1dfa"width="170" height="220"/>
 </p>
-      
       -Storage (hard disk)
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/cf9a8e1b-cc50-4bea-91f3-20936853b514" width="350" height="200"/>
-</p>
-      
+<img src = "https://github.com/user-attachments/assets/cf9a8e1b-cc50-4bea-91f3-20936853b514" width="170" height="220"/>
+</p>  
       -Power Supply Unit (PSU)
 <p align="center">
 <img src = "" width="350" height="200"/>
