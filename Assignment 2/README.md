@@ -1,5 +1,6 @@
 # Industry-Visit
 On 10th December 2024 (Tuesday), we had an industry visit to UTM Digital (UTMD), gathering at N24 at 2 PM with around 150 participants, led by Dr. Haswadi bin Hasan.
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/ac6a3d48-6011-4375-b42f-7a92ee08815f" width="400" height="200"/>
+  <img src = "
+![WhatsApp Image 2024-12-10 at 15 57 11_95d7ff0a](https://github.com/user-attachments/assets/6817673b-863b-4c71-a113-a71696556363)" width="400" height="200"/>
 </p>
