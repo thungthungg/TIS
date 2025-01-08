@@ -18,22 +18,22 @@ PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/20
       
       -CPU Cooler
 <p align="center">
-<img src = "" width="350" height="200"/>
+<img src = "https://github.com/user-attachments/assets/48624f93-0e04-409f-ab7a-dda1d42f4c07" width="200" height="200"/>
 </p>
       -Memory (RAM)
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/66fba60c-687c-42e3-8fd4-6f80afdb1dfa"width="170" height="220"/>
+<img src = "https://github.com/user-attachments/assets/8508d1c8-3a67-46a2-999e-5d22ad921209"width="170" height="300"/>
 </p>
       -Storage (hard disk)
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/cf9a8e1b-cc50-4bea-91f3-20936853b514" width="170" height="220"/>
+<img src = "https://github.com/user-attachments/assets/fd5a9629-07f2-4846-ace8-b46e4271a778" width="170" height="220"/>
 </p>  
       -Power Supply Unit (PSU)
 <p align="center">
-<img src = "" width="350" height="200"/>
+<img src = "https://github.com/user-attachments/assets/e1eda847-7282-4258-9dc5-d81bb64fe334" width="180" height="200"/>
 </p>
-     
       -Cables and connectors
+
       
 2.Work in a Clean and Static-Free Area
 
