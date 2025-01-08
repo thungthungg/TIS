@@ -1,3 +1,3 @@
 # INDUSTRY VISIT VIDEO
 
-This is the attachment of the video : (https://drive.google.com/file/d/1bRohGl9ebn-4nLtqsE7fpccWWkk-Fxiz/view?usp=sharing)
+This is the attachment of the video : [INDUSTRY VIDEO LINK](https://drive.google.com/drive/folders/1zoCnyASSAAyWMW217YKDa61e8fWyBHer?lfhs=2)
