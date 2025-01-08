@@ -18,9 +18,8 @@ PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/20
       
       -CPU Cooler
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169" width="350" height="200"/>
+<img src = "https://github.com/user-attachments/assets/cf9a8e1b-cc50-4bea-91f3-20936853b514" width="350" height="200"/>
 </p>
-      
       -Memory (RAM)
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169" width="350" height="200"/>
