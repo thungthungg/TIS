@@ -2,9 +2,9 @@
 
 Our group project revolves around designing and developing an innovative Smart Retractable Canopy using Big Data, IoT (Internet of Things), and AI (Artificial Intelligence).💻
 
-💁🏻‍♀️This is the attachment of the video :[DESIGN THINKING PROJECT VIDEO LINK](https://drive.google.com/file/d/1QcDfBEixR7f5WjhgSiB1ZXEc-Ek9PNbS/view?usp=sharing&amp;usp=embed_facebook)
+💁🏻‍♀️This is the attachment of the video : [DESIGN THINKING PROJECT VIDEO LINK](https://drive.google.com/file/d/1QcDfBEixR7f5WjhgSiB1ZXEc-Ek9PNbS/view?usp=sharing&amp;usp=embed_facebook)
 
-💁🏻‍♀️This is the attachment of the report :[Report(TIS).docx](https://github.com/user-attachments/files/18347626/Report.TIS.docx)
+💁🏻‍♀️This is the attachment of the report : [Report(TIS).docx](https://github.com/user-attachments/files/18347626/Report.TIS.docx)
 <h2> Project Objective </h2>
 
 - Solve issues with traditional canopies that are static and manually controlled, particularly in handling unpredictable weather.🌞
