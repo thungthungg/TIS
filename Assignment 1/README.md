@@ -8,7 +8,7 @@ Moreover, PETRONAS Digital outlined roles such as Software Engineer, Data Scient
 Attendees gained clarity on future career paths, the significance of continuous learning, and the potential for impactful contributions to society through technology.
 I feel inspired and motivated by the talk, gaining clarity on my career path and a renewed determination to work hard toward achieving myyour goals in the tech field.🏆
 
-This is the attachment of the poster. [Group 4 Assignment Poster.pdf](https://github.com/user-attachments/files/18341891/Group.4.Assignment.Poster.pdf)
+💁🏻‍♀️This is the attachment of the poster. [Group 4 Assignment Poster.pdf](https://github.com/user-attachments/files/18341891/Group.4.Assignment.Poster.pdf)
 
 <p align="center">
   <img src = "https://github.com/user-attachments/assets/23c3adc0-abb5-47ff-85f1-9d1e7a702d1d" width="800" height="1200"/>
