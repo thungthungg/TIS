@@ -8,4 +8,4 @@ On 10th December 2024 (Tuesday), our class had an industry visit to UTM Digital 
   <img src = "https://github.com/user-attachments/assets/abb133ac-6982-4c8a-937c-6000202a9d18"width="400" height="290"/>
 </p>
 
-This is the attachment of the video. [Group 7 Assignment (2).pdf](https://github.com/user-attachments/files/17880228/Group.7.Assignment.2.pdf)
+💁🏻‍♀️This is the attachment of the video : [INDUSTRY VIDEO LINK](https://drive.google.com/drive/folders/1zoCnyASSAAyWMW217YKDa61e8fWyBHer?lfhs=2)
