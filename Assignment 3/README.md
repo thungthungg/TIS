@@ -5,7 +5,7 @@
 • 📅 Date: 17th December 2024 (Teusday)<br>
 • 🕛 Time: 8 AM<br>
 
-
+💁🏻‍♀️This is the attachment of the report : [Report(TIS).docx](https://github.com/user-attachments/files/18347626/Report.TIS.docx)
 
 The industrial talk was moderated by Miss Damia Zafira and Mr. Muhammad Umar Rusyad, with Mr. Mohd Hakimi Iqmall, an Information Technology Officer at UTMDigital, as the invited guest speaker.<br>
 
