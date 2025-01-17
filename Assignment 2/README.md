@@ -11,7 +11,7 @@ Here is a pictures of our group member.📸
 
 💁🏻‍♀️This is the attachment of the **video**🎬 : [INDUSTRY VIDEO LINK](https://drive.google.com/file/d/1ZR4roVGvSWbQHg-RWyiHmBj-mnfFHNX_/view?usp=sharing)
 
-<h2>💡Refelction </h2>
+<h2>💡Refelction</h2>
   
 The visit to UTM Digital was both enlightening and informative, offering valuable insights into its operations and services🧩. I gained a clearer understanding of UTM Digital’s background, which is overseen by its Director, Nik Kamal Izuddin Nik Ibrahim👨🏻. During the visit, I learned about services such as UTMID, which is essential for accessing WiFi and university portals, as well as the significance of using UTM emails📩. I also discovered that UTM’s WiFi📡 and wired networks were upgraded in late 2023 to improve connectivity and efficiency.
 
