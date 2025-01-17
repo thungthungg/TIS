@@ -9,7 +9,7 @@ Here is a pictures of our group member.📸
   <img src = "https://github.com/user-attachments/assets/abb133ac-6982-4c8a-937c-6000202a9d18"width="400" height="290"/>
 </p>
 
-💁🏻‍♀️This is the attachment of the video🎬 : [INDUSTRY VIDEO LINK](https://drive.google.com/file/d/1ZR4roVGvSWbQHg-RWyiHmBj-mnfFHNX_/view?usp=sharing)
+💁🏻‍♀️This is the attachment of the **video**🎬 : [INDUSTRY VIDEO LINK](https://drive.google.com/file/d/1ZR4roVGvSWbQHg-RWyiHmBj-mnfFHNX_/view?usp=sharing)
 
 <h2>💡Refelction </h2>
   
