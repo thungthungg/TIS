@@ -9,7 +9,7 @@ Our group project revolves around designing and developing an innovative Smart R
 💁🏻‍♀️This is the link to our design thinking presentation slide:
 https://www.canva.com/design/DAGbb3ypfUw/DG1XPaZ0VujG4bG_6PPSpg/edit?utm_content=DAGbb3ypfUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-<h2> Project Objective </h2>
+<h2> 📋Project Objective </h2>
 
 - Solve issues with traditional canopies that are static and manually controlled, particularly in handling unpredictable weather.🌞
 
@@ -31,7 +31,7 @@ https://www.canva.com/design/DAGbb3ypfUw/DG1XPaZ0VujG4bG_6PPSpg/edit?utm_content
 
 - Allows users to operate the canopy for specific purposes like parties🎉 or washing cars.🚗
 
-<h2> Development Process </h2>
+<h2> ⚙️Development Process </h2>
 
 <h3>1.Empathy : </h3>
 
@@ -70,7 +70,7 @@ https://www.canva.com/design/DAGbb3ypfUw/DG1XPaZ0VujG4bG_6PPSpg/edit?utm_content
   <img src = "https://github.com/user-attachments/assets/86708bff-fb05-4e35-aff5-693d2e09fbb0" width="400" height="350"/> 
 </p>
 
-<h2>Team Contribution </h2>
+<h2>🧩 Team Contribution </h2>
 
 - Each member played distinct roles, from ideation and drafting to prototype creation, video editing, and report writing. ✏️Leadership and collaboration were evident throughout the project.⏱️
 
