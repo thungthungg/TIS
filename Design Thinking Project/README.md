@@ -2,7 +2,7 @@
 
 Our group project revolves around designing and developing an innovative Smart Retractable Canopy using Big Data, IoT (Internet of Things), and AI (Artificial Intelligence).💻
 
-💁🏻‍♀️This is the attachment of the video : [DESIGN THINKING PROJECT VIDEO LINK](https://drive.google.com/file/d/1QcDfBEixR7f5WjhgSiB1ZXEc-Ek9PNbS/view?usp=sharing&amp;usp=embed_facebook)
+💁🏻‍♀️This is the attachment of the video : https://youtu.be/PeqJYnS5g_A?si=Da5Edro1dLqMtwKu
 
 💁🏻‍♀️This is the attachment of the report : [Report(TIS).docx](https://github.com/user-attachments/files/18347626/Report.TIS.docx)
 <h2> Project Objective </h2>
@@ -11,7 +11,7 @@ Our group project revolves around designing and developing an innovative Smart R
 
 - Create a more flexible, user-friendly, and smart canopy to improve the living experience.📎
 
-<h2> Key Features of the Smart Canopy </h2>
+<h2> 🗝️Key Features of the Smart Canopy </h2>
 
 <h3>1. Sensors : </h3>
 
@@ -33,11 +33,11 @@ Our group project revolves around designing and developing an innovative Smart R
 
 - Identified target users (millennial homeowners with car porches) through surveys and interviews to understand their frustrations with fixed canopies.🔎
 
-<h3>2. Problem Definition : </h3>
+<h3>2. Problem Definition🧠 : </h3>
 
 - Fixed canopies are inconvenient during rain or excessive heat and require manual operation.🌧️
 
-<h3>3. Ideation : </h3>
+<h3>3. Ideation💡 : </h3>
 
 - Conceptualized a retractable canopy inspired by roller window shades, incorporating IoT and AI for automation.
 
@@ -49,11 +49,22 @@ Our group project revolves around designing and developing an innovative Smart R
 
 - Verified functionality, confirming the canopy's ability to retract and adapt to environmental conditions.✒️
 
-<h2>Outcome </h2>
+
+<h2>✏️Outcome </h2>
 
 - Developed a functional prototype showcasing the concept's feasibility.
 
 - Provided an innovative solution addressing user needs while promoting convenience, sustainability, and smart living.⌛
+
+## 🖼️ **Drawing & Model of Our Smart Canopy**
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/a29d17a1-defe-4886-b218-0c825c09b583" width="300" height="300"/> 
+  <img src = "https://github.com/user-attachments/assets/e603b175-5b72-4e6a-9c07-3227139802fd" width="270" height="350"/> 
+</p>
+
+<p align = "center">
+  <img src = "https://github.com/user-attachments/assets/86708bff-fb05-4e35-aff5-693d2e09fbb0" width="400" height="350"/> 
+</p>
 
 <h2>Team Contribution </h2>
 
