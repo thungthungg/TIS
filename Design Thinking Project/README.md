@@ -70,7 +70,7 @@ Our group project revolves around designing and developing an innovative Smart R
 
 - Each member played distinct roles, from ideation and drafting to prototype creation, video editing, and report writing. ✏️Leadership and collaboration were evident throughout the project.⏱️
 
-<h2>Reflection </h2>
+<h2>💡Reflection </h2>
 
 - The project emphasized practical problem-solving and leveraging technology to improve daily life.🧠
 
