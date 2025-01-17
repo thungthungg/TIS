@@ -1,10 +1,10 @@
-# PC-Assemble
+# 💻PC-Assemble
 PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/2024 (Wed) . Students were required to worked in groups of six with the guidance of technicians who taught us the steps of disassembling a PC. Afterward, we were tasked with reassembling the PC ourselves in group.
 
 <h2> Preparation </h2>
-<h3>1. Gather Tools and Components : </h3>
+<h3>1. Gather Tools and Components🛠️ </h3>
 
-<h4>🙋🏻‍♀️Screwdriver (typically Phillips head).</h4>
+<h4>🙋🏻‍♀️Screwdriver🪛 (typically Phillips head).</h4>
 
 <h4>🙋🏻‍♀️Anti-static wrist strap (optional but recommended).</h4>
 
@@ -58,7 +58,7 @@ PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/20
   🙋🏻‍♀️Lay out components and tools for easy access.
 
 
-<h2> Step-by-Step Assembly </h2>
+<h2> Step-by-Step Assembly </h2> ⚙️
 
 1. Attach the CPU Cooler
     - Mount the cooler on top of the CPU and secure it according to the cooler instructions.
@@ -90,4 +90,5 @@ PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/20
   <img src = "https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169" width="350" height="200"/>
 </p>
 
+<h3>💡Reflection </h3>
 Through this activity, I gained hands-on experience in assembling and disassembling a PC. Besides, I also developed a better understanding of each component's function, which contributes to the overall operation of a computer.
