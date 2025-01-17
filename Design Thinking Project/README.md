@@ -5,6 +5,10 @@ Our group project revolves around designing and developing an innovative Smart R
 💁🏻‍♀️This is the attachment of the video : https://youtu.be/PeqJYnS5g_A?si=Da5Edro1dLqMtwKu
 
 💁🏻‍♀️This is the attachment of the report : [Report(TIS).docx](https://github.com/user-attachments/files/18347626/Report.TIS.docx)
+
+💁🏻‍♀️This is the link to our design thinking presentation slide:
+https://www.canva.com/design/DAGbb3ypfUw/DG1XPaZ0VujG4bG_6PPSpg/edit?utm_content=DAGbb3ypfUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 <h2> Project Objective </h2>
 
 - Solve issues with traditional canopies that are static and manually controlled, particularly in handling unpredictable weather.🌞
