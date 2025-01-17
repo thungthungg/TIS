@@ -1,4 +1,4 @@
-# Poster
+# Poster 📇
 👾Industrial Talk with PETRONAS Digital's Young Graduate Programme (YGP)🤖
 
 I had attend a talk regarding to PETRONAS Digital's Young Graduate Programme (YGP). This YGP talk emphasizes the growing demand for careers in software and data engineering, offering insights into skills like **programming, problem-solving, and understanding software development processes**.
