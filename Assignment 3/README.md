@@ -39,7 +39,7 @@ The industrial talk was moderated by Miss Damia Zafira and Mr. Muhammad Umar Rus
 <h4>Analytical and Logical Skills :</h4>
 - Crucial for system development and identifying issues efficiently.
 
-<h2>3. Management Skills🔗</h2>
+<h2>3. Management Skills 🔗</h2>
 <h4>Problem-Solving :</h4>
 - Ability to tackle complex technical and management challenges.
 
@@ -54,7 +54,7 @@ The industrial talk was moderated by Miss Damia Zafira and Mr. Muhammad Umar Rus
 - Encourages developing technical and business skills (finance, marketing).
 - Discusses staying updated with technologies like AI and blockchain, building industry connections, and focusing on market gaps.
 
-<h2>5. Key Steps (Modules) :</h2>
+<h2>5. Key Steps (Modules) 🔓</h2>
 - Career preparation steps include self-awareness, job application skills, interview readiness, and industry relevance.
 
 <h2>6. Common Mistakes in Job Hunting 🗝️</h2>
