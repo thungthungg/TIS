@@ -58,7 +58,7 @@ PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/20
   🙋🏻‍♀️Lay out components and tools for easy access.
 
 
-<h2> Step-by-Step Assembly </h2> ⚙️
+<h2> Step-by-Step Assembly ⚙️</h2> 
 
 1. Attach the CPU Cooler
     - Mount the cooler on top of the CPU and secure it according to the cooler instructions.
