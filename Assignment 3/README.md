@@ -51,12 +51,13 @@ The industrial talk was moderated by Miss Damia Zafira and Mr. Muhammad Umar Rus
 - Competence in risk management, QA testing, documentation, and team leadership for project success.
 
 <h2>4. Preparing for Entrepreneurship in IT 🧠</h2>
-<h4>Key Steps (Modules) :</h4>
-- Build technical and management skills.
-- Develop communication and leadership capabilities.
-- Strengthen problem-solving skills and project management expertise.
+- Encourages developing technical and business skills (finance, marketing).
+- Discusses staying updated with technologies like AI and blockchain, building industry connections, and focusing on market gaps.
 
-<h2>5. Common Mistakes in Job Hunting 🗝️</h2>
+<h2>5. Key Steps (Modules) :</h2>
+- Career preparation steps include self-awareness, job application skills, interview readiness, and industry relevance.
+
+<h2>6. Common Mistakes in Job Hunting 🗝️</h2>
 <h4>Limiting Opportunities :</h4>
 - Avoid restricting yourself to specific roles; leverage your degree to explore broader prospects.
 
@@ -69,7 +70,7 @@ The industrial talk was moderated by Miss Damia Zafira and Mr. Muhammad Umar Rus
 <h4>Poor Communication Skills :</h4>
 - Practice and improve regularly for better career prospects.
 
-<h2>6. Job Application Flow 💼(IPRA Method)</h2>
+<h2>7. Job Application Flow 💼(IPRA Method)</h2>
 
 **I**: Identify your desired job and industry.
 
