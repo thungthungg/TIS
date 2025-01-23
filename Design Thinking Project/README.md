@@ -1,4 +1,4 @@
-# DESIGN THINKING PROJECT🧠
+# 🧠 DESIGN THINKING PROJECT
 
 Our group project revolves around designing and developing an innovative Smart Retractable Canopy using Big Data, IoT (Internet of Things), and AI (Artificial Intelligence).💻
 
@@ -9,55 +9,44 @@ Our group project revolves around designing and developing an innovative Smart R
 💁🏻‍♀️This is the link to our design thinking presentation slide:
 https://www.canva.com/design/DAGbb3ypfUw/DG1XPaZ0VujG4bG_6PPSpg/edit?utm_content=DAGbb3ypfUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-<h2> 📋Project Objective </h2>
+<h2> 1. Project Objective 📋</h2>
 
 - Solve issues with traditional canopies that are static and manually controlled, particularly in handling unpredictable weather.🌞
+- Create a more flexible, user-friendly, and smart canopy to improve the living experience.
 
-- Create a more flexible, user-friendly, and smart canopy to improve the living experience.📎
+<h2> 2. Key Features of the Smart Canopy 🗝️</h2>
 
-<h2> 🗝️Key Features of the Smart Canopy </h2>
+**Sensors :**
+- Humidity, light💡, and temperature sensors🌡️ to monitor environmental conditions.
 
-<h3>1. Sensors : </h3>
-
-- Humidity👧🏻, light💡, and temperature sensors❄️🌡️ to monitor environmental conditions.
-
-<h3>2. Automation : </h3>
-
+**Automation :**
 - Utilizes AI to react to weather conditions (e.g., opens during rain🌧️ or heat🔥 and retracts during strong winds🌪️).
-
 - Incorporates GPS📍 to detect user proximity and prepare the canopy accordingly.
 
-<h3>3. Manual Control : </h3>
-
+**Manual Control :**
 - Allows users to operate the canopy for specific purposes like parties🎉 or washing cars.🚗
 
-<h2> ⚙️Development Process </h2>
+<h2> 3. Development Process ⚙️</h2>
 
-<h3>1.Empathy : </h3>
+**Empathy :**
+- Identified target users (millennial homeowners with car porches) through surveys and interviews to understand their frustrations with fixed canopies.
 
-- Identified target users (millennial homeowners with car porches) through surveys and interviews to understand their frustrations with fixed canopies.🔎
+**Problem Definition🧠 :**
+- Fixed canopies are inconvenient during rain or excessive heat and require manual operation.
 
-<h3>2. Problem Definition🧠 : </h3>
-
-- Fixed canopies are inconvenient during rain or excessive heat and require manual operation.🌧️
-
-<h3>3. Ideation💡 : </h3>
-
+**Ideation💡 :**
 - Conceptualized a retractable canopy inspired by roller window shades, incorporating IoT and AI for automation.
 
-<h3>4. Prototyping : </h3>
+**Prototyping :**
+- Created a scaled model using simple materials (e.g., cardboard) to demonstrate the working concept.
 
-- Created a scaled model using simple materials (e.g., cardboard) to demonstrate the working concept.⭐
-
-<h3>5. Testing : </h3>
-
-- Verified functionality, confirming the canopy's ability to retract and adapt to environmental conditions.✒️
+**Testing :**
+- Verified functionality, confirming the canopy's ability to retract and adapt to environmental conditions.
 
 
-<h2>✏️Outcome </h2>
+<h2>4. Outcome ✏️</h2>
 
 - Developed a functional prototype showcasing the concept's feasibility.
-
 - Provided an innovative solution addressing user needs while promoting convenience, sustainability, and smart living.⌛
 
 ## 🖼️ **Drawing & Model of Our Smart Canopy**
@@ -70,12 +59,10 @@ https://www.canva.com/design/DAGbb3ypfUw/DG1XPaZ0VujG4bG_6PPSpg/edit?utm_content
   <img src = "https://github.com/user-attachments/assets/86708bff-fb05-4e35-aff5-693d2e09fbb0" width="400" height="350"/> 
 </p>
 
-<h2>🧩 Team Contribution </h2>
+<h2> 5. Team Contribution 🧩</h2>
 
-- Each member played distinct roles, from ideation and drafting to prototype creation, video editing, and report writing. ✏️Leadership and collaboration were evident throughout the project.⏱️
+- Each member played distinct roles, from ideation and drafting to prototype creation, video editing, and report writing. ✏️Leadership and collaboration were evident throughout the project.⏱
 
-<h2>💡Reflection </h2>
+<h2> 6. Reflection 💡</h2>
 
-- The project emphasized practical problem-solving and leveraging technology to improve daily life.🧠
-
-- Team members gained insights into user-centered design and the potential of IoT and AI in creating smart solutions.📌
+The project underscored the significance of practical problem-solving and how technology can effectively address challenges in daily life. Through the exploration of IoT and AI, the team gained a deeper understanding of their transformative potential in creating innovative and efficient smart solutions. Additionally, the project emphasized the value of user-centered design, ensuring that the solutions developed are not only technologically advanced but also aligned with the needs and experiences of end-users.🧠
