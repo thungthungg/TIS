@@ -1,5 +1,8 @@
 # 💻PC-Assemble
-PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/2024 (Wed) . Students were required to worked in groups of six with the guidance of technicians who taught us the steps of disassembling a PC. Afterward, we were tasked with reassembling the PC ourselves in group.
+🗓️ Details of the Activity<br>
+• 📍 Location: N28 Level 3 Laboratory Room<br>
+• 📅 Date: 6th November 2024 (Wednesday)<br>
+• 👥 Group Size: 6 Students
 
 <h2> Preparation 🔓</h2>
 <h3>1. Gather Tools and Components🛠️ </h3>
