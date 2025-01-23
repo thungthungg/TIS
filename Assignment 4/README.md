@@ -3,6 +3,8 @@
 
 Discover Agriculture is an innovative platform dedicated to **empowering farmers with knowledge and tools for modern farming practices**. Founded by Roshan Shetty and Harshith Bhandary, the initiative combines **education and technology** to inspire sustainable agriculture. Through its YouTube channel, it highlights **cutting-edge solutions** like **precision farming, automated machinery, and predictive analytics**. By integrating **AI, IoT, and robotics, Discover Agriculture** aims to **conserve resources, boost efficiency, and transform traditional farming into a more productive and sustainable endeavor**.🪵🌲🌴
 
+💁🏻‍♀️This is the attachment of the report : [Assignment 4.Newsletter](https://github.com/user-attachments/files/18518219/assignment.4.pdf)
+
 <h2>1. Background of Discover Agriculture📋</h2>
 
 - A YouTube channel founded by Roshan Shetty and Harshith Bhandary.
