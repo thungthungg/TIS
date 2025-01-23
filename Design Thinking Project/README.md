@@ -11,30 +11,30 @@ https://www.canva.com/design/DAGbb3ypfUw/DG1XPaZ0VujG4bG_6PPSpg/edit?utm_content
 
 <h2> 1. Project Objective 📋</h2>
 
-- Solve issues with traditional canopies that are static and manually controlled, particularly in handling unpredictable weather.🌞
+- Solve issues with traditional canopies that are static and manually controlled, particularly in handling unpredictable weather.
 - Create a more flexible, user-friendly, and smart canopy to improve the living experience.
 
 <h2> 2. Key Features of the Smart Canopy 🗝️</h2>
 
 **Sensors :**
-- Humidity, light💡, and temperature sensors🌡️ to monitor environmental conditions.
+- Humidity, light, and temperature sensors🌡️ to monitor environmental conditions.
 
 **Automation :**
-- Utilizes AI to react to weather conditions (e.g., opens during rain🌧️ or heat🔥 and retracts during strong winds🌪️).
+- Utilizes AI to react to weather conditions (e.g., opens during rain or heat🔥 and retracts during strong winds🌪️).
 - Incorporates GPS📍 to detect user proximity and prepare the canopy accordingly.
 
 **Manual Control :**
-- Allows users to operate the canopy for specific purposes like parties🎉 or washing cars.🚗
+- Allows users to operate the canopy for specific purposes like parties or washing cars.🚗
 
 <h2> 3. Development Process ⚙️</h2>
 
 **Empathy :**
 - Identified target users (millennial homeowners with car porches) through surveys and interviews to understand their frustrations with fixed canopies.
 
-**Problem Definition🧠 :**
+**Problem Definition :**
 - Fixed canopies are inconvenient during rain or excessive heat and require manual operation.
 
-**Ideation💡 :**
+**Ideation :**
 - Conceptualized a retractable canopy inspired by roller window shades, incorporating IoT and AI for automation.
 
 **Prototyping :**
